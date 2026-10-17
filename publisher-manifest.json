@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b5f3ce9a88cac85aff55ad18",
+  "owner": "pgsufnfvt",
+  "repo": "page-e274ecc53bf10cb6c4afe52d",
+  "title": "全球加速(PassWall)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e274ecc53bf10cb6c4afe52d",
+      "a": "全球加速(PassWall)",
+      "b": "",
+      "entity": "全球加速(PassWall)",
+      "brand": "全球加速(PassWall)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d5c957c22d6d645659fbd63470cf3ffd7ab0e1b9cc0665b3d45be8615b842537",
+      "content": {
+        "keyword1": "全球加速(PassWall)",
+        "keyword2": "",
+        "primary_entity": "全球加速(PassWall)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "全球加速(PassWall) 提供稳定高效的网络加速方案。适配多终端，满足流媒体观看、游戏加速与跨境办公等需求。",
+          "AI_DESCRIPTION": "全球加速(PassWall) 提供稳定高效的网络加速方案。适配多终端，满足流媒体观看、游戏加速与跨境办公等需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #FFFCE8;--fg: #1A3326;--accent: #2D5A3D;--highlight: #88B04B;--card-bg: #FFFFFF;--border: #D4E157;--text-muted: #5C6B60}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;background-color: var(--bg);color: var(--fg);line-height: 1.6;-webkit-font-smoothing: antialiased}\n.container {max-width: 1200px;margin: 0 auto;padding: 0 24px}\n\n/* Hero Section */\n.hero {display: grid;grid-template-columns: 1.2fr 1fr;gap: 48px;padding: 80px 0 60px;align-items: center}\n.hero-content h1 {font-size: 3rem;line-height: 1.1;margin-bottom: 24px;font-weight: 800;color: var(--accent)}\n.hero-content p {font-size: 1.1rem;margin-bottom: 32px;color: var(--text-muted)}\n.hero-nav {display: flex;flex-wrap: wrap;gap: 12px}\n.hero-nav a {display: inline-block;padding: 8px 18px;background: var(--accent);color: var(--bg);text-decoration: none;border-radius: 24px;font-size: 0.9rem;font-weight: 600;transition: opacity 0.2s}\n.hero-nav a:hover {opacity: 0.85}\n\n/* Info Panel */\n.info-panel {background: var(--card-bg);padding: 32px;border-radius: 24px;box-shadow: 0 12px 40px rgba(45, 90, 61, 0.08)}\n.info-panel h2 {font-size: 1.2rem;margin-bottom: 24px;color: var(--accent);border-bottom: 2px solid var(--border);padding-bottom: 12px}\n.info-item {display: flex;justify-content: space-between;padding: 12px 0;border-bottom: 1px dashed #E0E0E0}\n.info-item:last-child {border-bottom: none}\n.info-label {color: var(--text-muted);font-size: 0.95rem}\n.info-value {font-weight: 600}\n\n/* Section Styles */\nsection {padding: 60px 0}\n.section-title {font-size: 2rem;margin-bottom: 40px;text-align: center;color: var(--accent);font-weight: 700}\n\n/* Features Cards */\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 24px}\n.feature-card {background: var(--card-bg);padding: 28px;border-radius: 20px;box-shadow: 0 8px 24px rgba(45, 90, 61, 0.06)}\n.feature-card h3 {font-size: 1.2rem;margin-bottom: 12px;color: var(--accent)}\n.feature-card p {color: var(--text-muted);font-size: 0.95rem}\n\n/* Plans Comparison */\n.plans-container {display: grid;grid-template-columns: 1fr 1fr;gap: 32px;margin-top: 20px}\n.plan-card {background: var(--card-bg);border-radius: 24px;padding: 32px;box-shadow: 0 10px 30px rgba(45, 90, 61, 0.07);position: relative}\n.plan-card.featured {border: 2px solid var(--accent);transform: scale(1.02)}\n.recommend-badge {position: absolute;top: -12px;right: 24px;background: var(--accent);color: var(--bg);padding: 4px 16px;border-radius: 16px;font-size: 0.8rem;font-weight: 600}\n.plan-name {font-size: 1.5rem;color: var(--accent);margin-bottom: 8px}\n.plan-price {font-size: 2.5rem;font-weight: 800;color: var(--fg);margin-bottom: 4px}\n.plan-annual {color: var(--highlight);font-size: 0.9rem;margin-bottom: 24px}\n.plan-features {list-style: none}\n.plan-features li {padding: 10px 0;border-bottom: 1px solid #F0F0F0;font-size: 0.95rem}\n.plan-features li:before {content: \"✓\";color: var(--highlight);font-weight: bold;margin-right: 8px}\n\n/* Expanded Plan List */\n.plan-list {margin-top: 48px;background: var(--card-bg);border-radius: 24px;padding: 32px;box-shadow: 0 8px 24px rgba(45, 90, 61, 0.05)}\n.plan-row {display: grid;grid-template-columns: 1fr 2fr auto;gap: 24px;padding: 20px 0;border-bottom: 1px solid #E0E0E0;align-items: center}\n.plan-row:last-child {border-bottom: none}\n.plan-row-name {font-weight: 700;font-size: 1.1rem;color: var(--accent)}\n.plan-row-detail {font-size: 0.9rem;color: var(--text-muted)}\n.plan-row-price {font-weight: 700;font-size: 1.1rem}\n\n/* Client Section */\n.client-content {background: var(--card-bg);padding: 40px;border-radius: 24px;box-shadow: 0 8px 24px rgba(45, 90, 61, 0.05)}\n.client-content h3 {color: var(--accent);margin-bottom: 16px;font-size: 1.2rem}\n.client-content p {margin-bottom: 16px;color: var(--text-muted)}\n.client-note {background: var(--bg);padding: 16px;border-radius: 12px;margin-top: 24px;font-size: 0.9rem}\n\n/* FAQ Section */\n.faq-container {max-width: 800px;margin: 0 auto}\n.chat-bubble {margin-bottom: 24px}\n.bubble-question {background: var(--accent);color: var(--bg);padding: 16px 24px;border-radius: 20px 20px 4px 20px;margin-bottom: 12px;max-width: 85%;margin-left: auto}\n.bubble-answer {background: var(--card-bg);padding: 16px 24px;border-radius: 20px 20px 20px 4px;max-width: 85%;box-shadow: 0 4px 12px rgba(45, 90, 61, 0.05)}\n\n/* Footer */\nfooter {background: var(--accent);color: var(--bg);padding: 40px 0;text-align: center;margin-top: 60px}\nfooter p {font-size: 0.9rem;opacity: 0.9}\n\n/* Responsive */\n@media (max-width: 768px) {.hero { grid-template-columns: 1fr;gap: 32px;padding: 40px 0;}\n    .hero-content h1 { font-size: 2.2rem;}\n    .plans-container { grid-template-columns: 1fr;}\n    .plan-card.featured { transform: none;}\n    .plan-row { grid-template-columns: 1fr;gap: 8px;}}\n</style><div class=\"container\">\n\n<header class=\"hero\">\n    <div class=\"hero-content\">\n        <h1>全球加速(PassWall)</h1>\n        <p>适配多终端的网络加速方案。覆盖流媒体、游戏与日常跨境访问。配置简单，运行稳定。</p>\n        <nav class=\"hero-nav\">\n            <a href=\"#features\">功能特性</a>\n            <a href=\"#plans\">订阅方案</a>\n            <a href=\"#client\">客户端配置</a>\n            <a href=\"#faq\">常见问题</a>\n        </nav>\n    </div>\n    <aside class=\"info-panel\">\n        <h2>服务概览</h2>\n        <div class=\"info-item\">\n            <span class=\"info-label\">订阅方案</span>\n            <span class=\"info-value\">3 种可选</span>\n        </div>\n        <div class=\"info-item\">\n            <span class=\"info-label\">最低价格</span>\n            <span class=\"info-value\">¥15/月</span>\n        </div>\n        <div class=\"info-item\">\n            <span class=\"info-label\">设备支持</span>\n            <span class=\"info-value\">多平台</span>\n        </div>\n        <div class=\"info-item\">\n            <span class=\"info-label\">流量额度</span>\n            <span class=\"info-value\">100GB 起</span>\n        </div>\n        <div class=\"info-item\">\n            <span class=\"info-label\">客服支持</span>\n            <span class=\"info-value\">工单系统</span>\n        </div>\n    </aside>\n</header>\n\n<main>\n    <section id=\"features\">\n        <h2 class=\"section-title\">核心功能</h2>\n        <div class=\"features-grid\">\n            <article class=\"feature-card\">\n                <h3>多节点选择</h3>\n                <p>提供普通节点池与专线节点。满足不同场景下的网络需求。</p>\n            </article>\n            <article class=\"feature-card\">\n                <h3>流媒体适配</h3>\n                <p>支持主流流媒体平台访问。旗舰版提供原生解锁功能。</p>\n            </article>\n            <article class=\"feature-card\">\n                <h3>多设备在线</h3>\n                <p>基础版支持 3 台设备。团队版扩展至 20 台同时在线。</p>\n            </article>\n            <article class=\"feature-card\">\n                <h3>游戏加速</h3>\n                <p>IPLC 专线优化。降低延迟，提升游戏体验。</p>\n            </article>\n            <article class=\"feature-card\">\n                <h3>流量管理</h3>\n                <p>清晰的流量统计。按月重置，灵活掌控使用情况。</p>\n            </article>\n            <article class=\"feature-card\">\n                <h3>路由定制</h3>\n                <p>团队版支持企业定制路由。满足复杂网络环境需求。</p>\n            </article>\n        </div>\n    </section>\n\n    <section id=\"plans\">\n        <h2 class=\"section-title\">订阅方案</h2>\n        <p>两种展示方式。左侧为两栏对照，下方为完整列表。</p>\n        \n        <div class=\"plans-container\">\n            <article class=\"plan-card\">\n                <h3 class=\"plan-name\">基础版</h3>\n                <div class=\"plan-price\">¥15<span>/月</span></div>\n                <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                <ul class=\"plan-features\">\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </article>\n            \n            <article class=\"plan-card featured\">\n                <span class=\"recommend-badge\">推荐</span>\n                <h3 class=\"plan-name\">旗舰版</h3>\n                <div class=\"plan-price\">¥35<span>/月</span></div>\n                <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                <ul class=\"plan-features\">\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </article>\n        </div>\n\n        <div class=\"plan-list\">\n            <div class=\"plan-row\">\n                <div class=\"plan-row-name\">基础版</div>\n                <div class=\"plan-row-detail\">100GB 流量 | 3 设备 | 基础流媒体 | 普通节点池</div>\n                <div class=\"plan-row-price\">¥15/月</div>\n            </div>\n            <div class=\"plan-row\">\n                <div class=\"plan-row-name\">旗舰版</div>\n                <div class=\"plan-row-detail\">300GB 流量 | 5 设备 | 原生流媒体 | IPLC 专线 | 优先工单</div>\n                <div class=\"plan-row-price\">¥35/月</div>\n            </div>\n            <div class=\"plan-row\">\n                <div class=\"plan-row-name\">团队版</div>\n                <div class=\"plan-row-detail\">1000GB 流量 | 20 设备 | VIP 节点 | 企业定制路由 | 专属客户经理</div>\n                <div class=\"plan-row-price\">¥85/月</div>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"client\">\n        <h2 class=\"section-title\">客户端与使用说明</h2>\n        <div class=\"client-content\">\n            <h3>客户端获取</h3>\n            <p>全球加速(PassWall) 支持主流操作系统平台。用户可通过官方渠道获取最新版本客户端软件。</p>\n            <p>安装完成后，使用订阅账号登录。系统将自动同步节点列表与配置信息。</p>\n            \n            <h3>配置步骤</h3>\n            <p>1. 下载并安装对应平台的客户端。</p>\n            <p>2. 输入订阅账号与密码完成登录。</p>\n            <p>3. 从节点列表中选择目标服务器。</p>\n            <p>4. 点击连接按钮，启动加速服务。</p>\n            <p>5. 在系统设置中可调整路由规则与分流模式。</p>\n            \n            <div class=\"client-note\">\n                <strong>提示：</strong>首次使用时，建议先测试普通节点。确认连接正常后再尝试专线节点。如遇连接问题，请检查本地网络设置或提交工单。\n            </div>\n        </div>\n    </section>\n\n    <section id=\"faq\">\n        <h2 class=\"section-title\">常见问题</h2>\n        <div class=\"faq-container\">\n            <div class=\"chat-bubble\">\n                <div class=\"bubble-question\">套餐之间的主要区别是什么？</div>\n                <div class=\"bubble-answer\">主要区别在于流量额度、设备数量与节点类型。基础版提供 100GB 流量与普通节点。旗舰版升级至 300GB 并增加专线节点。团队版面向多人使用，提供 1000GB 流量与定制路由。</div>\n            </div>\n            <div class=\"chat-bubble\">\n                <div class=\"bubble-question\">如何切换套餐？</div>\n                <div class=\"bubble-answer\">用户可在账户管理页面升级或降级套餐。升级后流量额度立即生效。降级将在当前计费周期结束后生效。</div>\n            </div>\n            <div class=\"chat-bubble\">\n                <div class=\"bubble-question\">支持哪些操作系统？</div>\n                <div class=\"bubble-answer\">支持 Windows、macOS、Linux、Android 与 iOS 平台。各平台客户端功能基本一致，界面略有差异。</div>\n            </div>\n            <div class=\"chat-bubble\">\n                <div class=\"bubble-question\">流量用完后会怎样？</div>\n                <div class=\"bubble-answer\">流量用完后连接将自动断开。用户可购买加油包或升级至更高套餐。每月 1 日流量自动重置。</div>\n            </div>\n            <div class=\"chat-bubble\">\n                <div class=\"bubble-question\">退款政策是什么？</div>\n                <div class=\"bubble-answer\">新订阅用户享有 3 天无理由退款保障。超过 3 天或已使用超过 10GB 流量后不支持退款。具体条款请参阅服务协议。</div>\n            </div>\n            <div class=\"chat-bubble\">\n                <div class=\"bubble-question\">如何获取客服支持？</div>\n                <div class=\"bubble-answer\">所有用户均可通过工单系统提交问题。旗舰版用户享有 7x24 优先响应。团队版配备专属客户经理。</div>\n            </div>\n        </div>\n    </section>\n</main>\n\n</div>\n\n<footer>\n    <div class=\"container\">\n        <p>全球加速(PassWall) © 2024 | 网络加速服务提供方</p>\n    </div>\n</footer>",
+          "hash": "6326aba0bf48caad4d61652f5ff6aa1dde1a3cc93b31ccd3bf9fa11749398139",
+          "seo": {
+            "title": "全球加速(PassWall) | 科学上网与网络加速服务",
+            "keywords": "全球加速, PassWall, 网络加速, 科学上网, 跨境网络",
+            "description": "全球加速(PassWall) 提供稳定高效的网络加速方案。适配多终端，满足流媒体观看、游戏加速与跨境办公等需求。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "6104",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "5 奶油黄配墨绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jinanshengbo.cn",
+    "host": "p-2e6f80fabe.jinanshengbo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "19d93595abffffbb6b618efe08035ad8719ffcd949f3536b9751bf213f819893",
+    "sitemap.xml": "344b4b707352138c9fdc86fdaea028114fff8ebf1811c8456fe798a6120b4f4c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "69300844fecaf3786ebe2b06aca38ca89447c616d326c8a30e2480e06d25d6ca",
+    "robots.txt": "2d3f481d55dbc6e141a5d18fd9e3269013219e903d667ba41a144ed21ffda802",
+    "870a4e2ceecb893a32526dbc59649046.txt": "bed772009f0692b9ddac5a96710976d0529cb1f8057208b658e7a392210eb546"
+  },
+  "revision": "a20611453dce07ab5284f6755ee547e06591e430dcbc66457e43dcb8ced826c9"
+}
